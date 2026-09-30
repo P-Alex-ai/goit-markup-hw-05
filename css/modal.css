@@ -80,7 +80,7 @@
 }
 
 .modal-form-field {
-    margin-bottom: 8px;
+    margin-bottom: 0;
 }
 
 .modal-form-label {
@@ -157,7 +157,7 @@
 }
 
 .modal-form-checkbox {
-    margin-top: 8px;
+    margin-top: 16px;
     margin-bottom: 24px;
 }
 
