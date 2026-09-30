@@ -80,6 +80,10 @@
 }
 
 .modal-form-field {
+    margin-bottom: 8px;
+}
+
+.modal-form-field-last {
     margin-bottom: 0;
 }
 
